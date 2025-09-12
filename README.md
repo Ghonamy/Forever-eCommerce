@@ -13,8 +13,8 @@ Built with **React.js** and **Bootstrap**, it delivers a fast, responsive shoppi
 
 ## 🖼️ Screenshots
 
-![Home](/ScreenShots/home.png)
-![Product](/ScreenShots/product.png)
+![Home](/Home.png)
+![Product](/Product.png)
 
 ---
 
