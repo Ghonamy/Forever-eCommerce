@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Prata&display=swap");
+
+body {
+  font-family: "Outfit", sans-serif !important;
+  overflow-x: hidden;
+}
+
+button {
+  transition: 0.3s;
+}
+
+button:hover {
+  background: transparent !important;
+  color: #212529 !important;
+}
+
+.box {
+  overflow: hidden;
+}
+
+.box img {
+  transition: 0.3s;
+  display: block;
+  min-height: 300px;
+  object-fit: cover;
+}
+
+.box img:hover {
+  transform: scale(1.07);
+}
+
+@media (max-width: 767px) {
+  .footer .main,
+  .footer .mp {
+    width: 100% !important;
+  }
+}
+
+input:focus {
+  outline: 0;
+}
+
+.subscribe input {
+  width: 450px;
+}
+
+.about:hover {
+  transition: 0.3s;
+  background-color: #272b2e;
+  color: #fff;
+  cursor: pointer;
+}
+
+@media (max-width: 575px) {
+  .search {
+    width: 350px !important;
+    margin: 0 auto;
+  }
+  .profile img {
+    width: 100% !important;
+    height: 350px !important;
+  }
+  .cart-total {
+    width: 100% !important;
+  }
+  .cart {
+    font-size: 14px !important;
+  }
+}
+
+.add:hover {
+  background-color: #0d6efd !important;
+  color: #fff !important;
+}
