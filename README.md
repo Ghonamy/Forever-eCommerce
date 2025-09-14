@@ -7,7 +7,7 @@ Built with **React.js** and **Bootstrap**, it delivers a fast, responsive shoppi
 
 ## 🚀 Live Demo
 
-🔗 **[View the Website](https://your-live-demo-link.com)**
+🔗 **[View the Website](https://forever-fashion-ecommerce.vercel.app/)**
 
 ---
 
